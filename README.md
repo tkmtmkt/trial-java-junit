@@ -1,1 +1,1 @@
-# study-java-junit
+# trial-java-junit
